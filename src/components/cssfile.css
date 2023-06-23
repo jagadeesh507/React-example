@@ -1,0 +1,41 @@
+#hello{
+    color:green;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#work{
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    color-scheme: white;
+    text-shadow: 5px;
+    color:aqua;
+    float:right;
+    border-style:solid;
+    border-color: antiquewhite;
+    border-radius: 4px;
+}
+.navBar{
+background-color: orange;
+color:black;
+font-family: 'Courier New', Courier, monospace;
+}
+li{
+    display:inline;
+    padding:5px;
+    color:green;
+}
+.homePage{
+    text-align: center;
+}
+.listContainer{
+    background-color: green;
+    font-weight: 700;
+    font-size: medium;
+    color:red;
+}
+a.hover{
+    color:gray;
+}
+a.active{
+    color:darkmagenta;
+}
